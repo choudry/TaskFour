@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TaskFour</string>
+    <string name="prompt">Select Option</string>
+    <string-array name="options">
+        <item>Select Option</item>
+        <item>All</item>
+        <item>City</item>
+        <item>Class</item>
+    </string-array>
+</resources>
